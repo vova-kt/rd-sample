@@ -1,0 +1,8 @@
+schemaVersion: 2.2.0
+metadata:
+  name: 'RD sample'
+attributes:
+  space:
+    instanceType: regular
+    editor:
+      type: Idea
